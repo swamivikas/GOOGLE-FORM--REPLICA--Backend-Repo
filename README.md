@@ -20,7 +20,7 @@
      ```
 
 ## 3. so we have 6 apis in our server.ts file 
-### 1. ping api ->  it is a get request and will return always true its only for shceking the server
+### 1. ping api ->  it is a get request and will return always true its only for chceking the server
 
 we can see what this api will return by hitting it on postman
 ![image](https://github.com/swamivikas/slidely-form-APP---Backend-Repo/assets/108607735/7ede3ca3-73ce-4865-983a-041af07f4fcf)
