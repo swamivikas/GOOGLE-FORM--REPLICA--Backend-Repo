@@ -17,9 +17,8 @@
 now hit this command to start the project 
 
      
-     ```
      npm run start
-     ```
+    
 
 ## 3. so we have 6 apis in our server.ts file 
 ### 1. ping api ->  it is a get request and will return always true its only for chceking the server
