@@ -14,7 +14,7 @@
 
 ## 2. Now open your project and create src file and in src file create db.json and server.ts 
 
-     now hit this command to start the project 
+now hit this command to start the project 
 
      
      ```
