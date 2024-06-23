@@ -6,6 +6,7 @@
 
     you can run the following command
    ```
+   npm install -g ts-node
    npm install express
    npm install typescript ts-node @types/node @types/express --save-dev
    ```
